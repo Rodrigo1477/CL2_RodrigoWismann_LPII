@@ -63,7 +63,7 @@ public class TestProducto {
 				
 				for(TblProductocl2 lis:listado) {
 					//imprimimos en pantalla los datos recuperados
-					System.out.println("codigo" + lis.getIdproductocl2() + " nombre "+lis.getNombrecl2() + 
+					System.out.println("codigo" + lis.getIdproductocl2() + " nombre "+bus.getNombrecl2() + 
 							" Descripcion: " +lis.getDescripcl2() + 
 							" Estado: " +lis.getEstadocl2() + 
 							" Precio de Compra: " + lis.getPreciocompcl2() + 
