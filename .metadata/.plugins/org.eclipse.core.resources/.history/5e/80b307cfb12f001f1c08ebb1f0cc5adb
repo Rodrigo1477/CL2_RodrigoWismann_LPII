@@ -1,0 +1,11 @@
+package Test;
+
+public class TestProducto {
+	
+	public static void main(String[] args) {
+		// Instanciamos la entidad tblcliente
+		
+		TblProductocl2 cliente=new TblProductocl2();
+		TblProductocl2Imp crud=new TblProductocl2Imp();
+
+}

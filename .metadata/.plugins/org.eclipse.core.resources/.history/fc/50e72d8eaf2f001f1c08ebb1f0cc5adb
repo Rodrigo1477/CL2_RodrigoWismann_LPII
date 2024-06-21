@@ -1,0 +1,12 @@
+package Test;
+
+public class TestUsuario {
+	
+	public static void main(String[] args) {
+		// Instanciamos la entidad tblcliente
+		
+		TblUsuario usuario=new TblUsuario();
+		TblUsuariocl2Imp crud=new TblUsuariocl2Imp();
+
+}
+}

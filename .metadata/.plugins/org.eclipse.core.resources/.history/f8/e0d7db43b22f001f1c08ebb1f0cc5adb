@@ -1,0 +1,25 @@
+package Test;
+
+import Dao.TblProductocl2Imp;
+import model.TblProductocl2;
+
+public class TestProducto {
+	
+	public static void main(String[] args) {
+		// Instanciamos la entidad tblcliente
+		
+		TblProductocl2 producto=new TblProductocl2();
+		TblProductocl2Imp crud=new TblProductocl2Imp();
+		
+		//Asignamos Datos
+		
+		producto.setNombrecl2("Hamburguesa");
+		producto.setPrecioventacl2(5.00);
+		producto.setPreciocompcl2(4.00);
+		producto.setEstadocl2("Nuevo");
+		producto.setDescripcl2("La caserita");
+		
+		//Invocamos el metodo registrar datos en BD
+		crud.RegistrarProducto(producto); */
+
+}}

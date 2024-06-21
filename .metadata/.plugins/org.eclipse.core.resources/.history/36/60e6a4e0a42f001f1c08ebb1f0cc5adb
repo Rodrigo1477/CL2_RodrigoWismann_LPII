@@ -1,0 +1,49 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Listado de Productos</title>
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<h1>Listado de Productos</h1>
+
+<h2>
+<a href="RegistrarCliente.jsp">Registrar Productos</a>
+</h2>
+
+<table>
+    <tr>
+        <th>Codigo</th>
+        <th>Nombre</th>
+        <th>Precio Venta</th>
+        <th>Precio Compra</th>
+        <th>Estado</th>
+        <th>Descripción</th>
+
+    </tr>
+    <%
+        List<TblCliente> listadocliente = (List<TblCliente>) request.getAttribute("listadoclientes");
+        if (listadocliente != null) {
+            for (TblCliente lis : listadocliente) {
+    %>
+    <tr>
+        <td><%= lis.getIdcliente() %></td>
+        <td><%= lis.getNombre() %></td>
+        <td><%= lis.getApellido() %></td>
+        <td><%= lis.getDni() %></td>
+        <td><%= lis.getEmail() %></td>
+        <td><%= lis.getTelf() %></td>
+        <td><%= lis.getSexo() %></td>
+        <td><%= lis.getNacionalidad() %></td>
+    </tr>
+    <%
+            }
+        }
+    %>
+</table>
+
+</body>
+</html>

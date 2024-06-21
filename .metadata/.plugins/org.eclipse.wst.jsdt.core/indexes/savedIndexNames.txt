@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+902883298.index
+1208546627.index
+3988687131.index
+2781225637.index
+1188550806.index
+82141465.index

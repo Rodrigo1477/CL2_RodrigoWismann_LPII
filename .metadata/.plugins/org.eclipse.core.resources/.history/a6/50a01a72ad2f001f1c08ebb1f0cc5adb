@@ -1,0 +1,58 @@
+package Dao;
+
+import java.util.List;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+import Interfaces.IProducto;
+import model.TblProductocl2;
+
+public class TblProductocl2Imp implements IProducto{
+
+	@Override
+	public void RegistrarProducto(TblProductocl2 producto) {
+		
+		// Establecer la conexion con la unidad de persistencia		
+		EntityManagerFactory em=Persistence.createEntityManagerFactory("ProyectoMavenCL2Rodrigo");
+		// Gestionar las entidades
+		EntityManager emanager=em.createEntityManager();
+		// iniciamos la transacción
+		emanager.getTransaction().begin();
+		//registramos a la base de datos
+		emanager.persist(producto);
+		//emitimos mensaje por pantalla
+		System.out.println("Cliente registrado en la base de dato");
+		//confirmamos la transaccion
+		emanager.getTransaction().commit();
+		//cerramos
+		emanager.close();
+		
+	}
+
+	@Override
+	public void ActualizarProducto(TblProductocl2 producto) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void EliminarProducto(TblProductocl2 producto) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public TblProductocl2 BuscarProducto(TblProductocl2 producto) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<TblProductocl2> ListarProducto() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

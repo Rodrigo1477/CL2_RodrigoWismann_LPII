@@ -1,0 +1,14 @@
+package Test;
+
+import Dao.TblProductocl2Imp;
+import model.TblProductocl2;
+
+public class TestProducto {
+	
+	public static void main(String[] args) {
+		// Instanciamos la entidad tblcliente
+		
+		TblProductocl2 cliente=new TblProductocl2();
+		TblProductocl2Imp crud=new TblProductocl2Imp();
+
+}}

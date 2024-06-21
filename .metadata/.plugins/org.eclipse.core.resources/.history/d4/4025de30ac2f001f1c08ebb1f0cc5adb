@@ -1,0 +1,11 @@
+package Interfaces;
+
+public interface IProducto {
+	
+	public void RegistrarProducto(TblProductocl2 cliente);
+	public void ActualizarProducto(TblProductocl2 cliente);
+	public void EliminarProducto(TblProductocl2 cliente);
+	public TblCliente BuscarProducto(TblProductocl2 cliente);
+	public List<TblProductocl2> ListarProducto();
+
+}
