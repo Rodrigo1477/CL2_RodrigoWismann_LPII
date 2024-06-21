@@ -13,16 +13,16 @@ public class TestProducto {
 		TblProductocl2 producto=new TblProductocl2();
 		TblProductocl2Imp crud=new TblProductocl2Imp();
 		
-	/*	//Asignamos Datos
+		//Asignamos Datos
 		
-		producto.setNombrecl2("Hamburguesa");
+		producto.setNombrecl2("nuggetso");
 		producto.setPrecioventacl2(5.00);
 		producto.setPreciocompcl2(4.00);
 		producto.setEstadocl2("Nuevo");
 		producto.setDescripcl2("La caserita");
 		
 		//Invocamos el metodo registrar datos en BD
-		crud.RegistrarProducto(producto); */
+		crud.RegistrarProducto(producto); 
 		
 		
 	/*	//Testeamos Actualizar
@@ -59,7 +59,7 @@ public class TestProducto {
 		
 		//Testeamos el metodo listado de productos registrados en la base de datos
 		
-				List<TblProductocl2> listado=crud.ListarProducto();
+	/*			List<TblProductocl2> listado=crud.ListarProducto();
 				
 				for(TblProductocl2 lis:listado) {
 					//imprimimos en pantalla los datos recuperados
@@ -68,7 +68,7 @@ public class TestProducto {
 							" Estado: " +lis.getEstadocl2() + 
 							" Precio de Compra: " + lis.getPreciocompcl2() + 
 							" Precio de Venta: " + lis.getPrecioventacl2());;
-				}
+				}*/
 		
 		
 			

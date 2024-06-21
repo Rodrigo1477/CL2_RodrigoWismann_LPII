@@ -1,0 +1,92 @@
+package Controlador;
+
+import java.io.IOException;
+import java.util.List;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import Dao.TblProductocl2Imp;
+import model.TblProductocl2;
+
+/**
+ * Servlet implementation class ControladoProducto
+ */
+public class ControladoProducto extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public ControladoProducto() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		
+		
+		TblProductocl2 producto=new TblProductocl2();
+		TblProductocl2Imp crud = new TblProductocl2Imp();
+		
+		List<TblProductocl2> listadoproducto=crud.ListarProducto();
+		
+		//Asignamos el listado de clientes recuperados en la bd
+		
+		request.setAttribute("listadoproductos", listadoproducto);
+		
+	//	response.getWriter().append("Served at: ").append(request.getContextPath());
+		request.getRequestDispatcher("/ListadoProductos.jsp").forward(request, response);
+	}
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		//doGet(request, response);
+		
+		
+		// Recuperamos los datos del formulario
+		
+		String Nombre = request.getParameter("nombre");
+		Double PrecioVenta = Double.parseDouble(request.getParameter("precioventa"));
+		Double PrecioCompra = Double.parseDouble(request.getParameter("preciocompra"));
+		String Estado = request.getParameter("estado");
+		String Descripcion = request.getParameter("descripcion");
+
+		
+		//instanciamos las respectivas clases...
+		
+		TblProductocl2 producto=new TblProductocl2();
+		TblProductocl2Imp crud = new TblProductocl2Imp();
+		//Asignamos valores
+		
+		producto.setNombrecl2(Nombre);
+		producto.setDescripcl2(Descripcion);
+		producto.setEstadocl2(Estado);
+		producto.setPreciocompcl2(serialVersionUID);
+		producto.setPrecioventacl2(serialVersionUID);
+
+		
+		//Invocamos al metodo registrar cliente en la bd
+		
+		crud.RegistrarProducto(producto);
+		
+		//Actualizar el listado
+		List<TblProductocl2> listadoproducto=crud.ListarProducto();
+		//Asignamos el listado de clientes recuperados en la BD
+		request.setAttribute("listadoproductos", listadoproducto);
+		
+		
+		//Redireccionamos hacia el listado de productos
+		request.getRequestDispatcher("/ListadoProductos.jsp").forward(request, response);
+	}
+
+}

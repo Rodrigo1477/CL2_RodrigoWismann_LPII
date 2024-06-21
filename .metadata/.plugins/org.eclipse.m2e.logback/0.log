@@ -617,3 +617,185 @@
 2024-06-21 07:59:23,135 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
 2024-06-21 07:59:29,754 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-06-21 07:59:29,755 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 07:59:29,759 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 07:59:29,761 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:18:47,450 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:18:47,452 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 08:18:47,454 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:18:47,454 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:19:07,966 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:19:07,967 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 08:19:07,971 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:19:07,973 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:20:29,263 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:20:29,264 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 08:20:29,267 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:20:29,267 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:20:58,688 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:20:58,689 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 08:20:58,694 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:20:58,694 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:21:11,371 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:21:11,373 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 08:21:11,380 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:21:11,381 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:23:16,363 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:23:16,364 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 08:23:16,368 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:23:16,369 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:24:08,023 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:24:08,026 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 08:24:08,056 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:24:08,057 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:26:08,271 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:26:08,272 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 08:26:08,276 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:26:08,276 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:26:24,789 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:26:24,791 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 08:26:24,794 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:26:24,795 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:27:06,058 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:27:06,059 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 08:27:06,061 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:27:06,061 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:28:56,967 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:28:56,968 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 08:28:56,971 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:28:56,972 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:29:42,687 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:29:42,689 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 08:29:42,692 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:29:42,692 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:30:08,030 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:30:08,033 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 08:30:08,039 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:30:08,039 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:30:20,741 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:30:20,742 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 08:30:20,745 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:30:20,745 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:30:27,221 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:30:27,222 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 08:30:27,224 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:30:27,225 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:30:41,262 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:30:41,264 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 08:30:41,266 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:30:41,267 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:32:50,304 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:32:50,305 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 08:32:50,308 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:32:50,309 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:35:32,196 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:35:32,199 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 08:35:32,206 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:35:32,207 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:44:47,067 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:44:47,068 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 08:44:47,075 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:44:47,076 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:45:50,262 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:45:50,263 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 08:45:50,265 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:45:50,265 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:46:09,488 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:46:09,488 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 08:46:09,490 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:46:09,490 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:46:29,703 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:46:29,703 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 08:46:29,705 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:46:29,705 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:46:43,408 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:46:43,409 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 08:46:43,410 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:46:43,410 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:46:54,982 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:46:54,982 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 08:46:54,983 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:46:54,983 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:47:03,345 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:47:03,346 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 08:47:03,351 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:47:03,352 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:47:13,279 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:47:13,280 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 08:47:13,281 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:47:13,282 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:47:17,854 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:47:17,855 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 08:47:17,856 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:47:17,857 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:48:16,652 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:48:16,654 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 08:48:16,658 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:48:16,659 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:55:50,289 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:55:50,290 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 08:55:50,292 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:55:50,292 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:57:48,123 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:57:48,123 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 08:57:48,125 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:57:48,125 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 08:58:23,013 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:58:23,014 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 08:58:23,016 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 08:58:23,016 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 09:02:56,340 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:02:56,340 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 09:02:56,342 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:02:56,342 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 09:04:30,783 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:04:30,783 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 09:04:30,786 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:04:30,786 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 09:04:53,083 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:04:53,084 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 09:04:53,091 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:04:53,091 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 09:06:19,978 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:06:19,979 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 09:06:19,980 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:06:19,981 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 09:06:49,205 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:06:49,206 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 09:06:49,208 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:06:49,209 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 09:08:02,572 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:08:02,572 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 09:08:02,575 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:08:02,575 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 09:08:28,128 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:08:28,129 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 09:08:28,130 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:08:28,130 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 09:08:43,356 [Worker-74: Launching TestProducto] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:08:43,357 [Worker-74: Launching TestProducto] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 09:08:43,359 [Worker-74: Launching TestProducto] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:08:43,360 [Worker-74: Launching TestProducto] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 09:09:03,966 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:09:03,967 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 09:09:03,969 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:09:03,969 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 09:12:30,610 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:12:30,612 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 09:12:30,624 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:12:30,625 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 09:12:40,838 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:12:40,838 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 09:12:40,841 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:12:40,841 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 09:12:50,466 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:12:50,466 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 09:12:50,469 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:12:50,470 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 09:13:36,487 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:13:36,488 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 09:13:36,490 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:13:36,491 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources
+2024-06-21 09:20:21,490 [Worker-86: Launching TestProducto] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:20:21,491 [Worker-86: Launching TestProducto] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 09:20:21,494 [Worker-86: Launching TestProducto] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 09:20:21,494 [Worker-86: Launching TestProducto] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\casa2\OneDrive\Escritorio\CL2_RodrigoWismann_LPII\ProyectoMavenCL2Rodrigo\src\test\resources

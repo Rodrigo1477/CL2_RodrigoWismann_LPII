@@ -11,7 +11,7 @@
 
 <h1>Registrar Productos</h1>
 
-<form action="ControladorCliente" method="post">
+<form action="ControladorProducto" method="post">
     <table>
         <tr>
             <td>Nombre</td>
